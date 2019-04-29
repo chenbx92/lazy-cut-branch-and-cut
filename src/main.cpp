@@ -1,7 +1,7 @@
 #include "ObjMgr.h"
 #include<iostream>
 #include "CVRPmodel.h"
-
+//try
 int main(int argc, char* argv[])
 {
 	try {
